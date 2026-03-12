@@ -86,7 +86,7 @@
             "last_commit": "2026-03-03T21:24:35Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 9683
+            "stars": 9684
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 17551
+            "stars": 17550
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-03-10T20:09:57Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 13919
+            "stars": 13927
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2024-07-23T22:12:59Z",
             "owner": "nidhaloff",
             "repo": "deep-translator",
-            "stars": 1969
+            "stars": 1970
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4818
+            "stars": 4819
           }
         },
         {
@@ -215,10 +215,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T00:49:14Z",
+            "last_commit": "2026-03-11T21:29:52Z",
             "owner": "translate",
             "repo": "translate",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -358,7 +358,7 @@
             "last_commit": "2025-09-29T18:47:13Z",
             "owner": "globalizejs",
             "repo": "globalize",
-            "stars": 4836
+            "stars": 4835
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:12:56.087Z",
+    "last_updated": "2026-03-12T04:17:17.073Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,

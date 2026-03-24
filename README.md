@@ -55,15 +55,15 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 17,564 | 🐛 121 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,034 | 🐛 113 | 🌐 Python | 📅 2026-03-20 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 9,713 | 🐛 25 | 🌐 C++ | 📅 2026-03-19 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 17,566 | 🐛 121 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,041 | 🐛 113 | 🌐 Python | 📅 2026-03-20 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 9,720 | 🐛 25 | 🌐 C++ | 📅 2026-03-19 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 5,780 | 🐛 150 | 🌐 Python | 📅 2026-02-22 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 5,786 | 🐛 150 | 🌐 Python | 📅 2026-02-22 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
@@ -84,7 +84,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,828 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
 * [Translator](https://github.com/UlionTse/translators) ⭐ 2,993 | 🐛 12 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 1,973 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 942 | 🐛 271 | 🌐 Python | 📅 2026-03-21 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translate](https://github.com/translate/translate) ⭐ 942 | 🐛 272 | 🌐 Python | 📅 2026-03-24 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 489 | 🐛 14 | 🌐 Ruby | 📅 2026-03-02 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 * [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 81 | 🐛 14 | 🌐 Python | 📅 2026-03-01 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.

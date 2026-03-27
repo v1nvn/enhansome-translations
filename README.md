@@ -43,7 +43,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Project management
 
 * [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-* [Traduora](https://github.com/traduora/traduora) ⭐ 2,115 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-20 - A platform to manage translation workflow in teams.
+* [Traduora](https://github.com/traduora/traduora) ⭐ 2,115 | 🐛 97 | 🌐 JavaScript | 📅 2026-03-26 - A platform to manage translation workflow in teams.
 
 ### Platform-specific tools
 
@@ -56,14 +56,14 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Automated translation
 
 * [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 17,563 | 🐛 122 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,055 | 🐛 113 | 🌐 Python | 📅 2026-03-20 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 9,727 | 🐛 25 | 🌐 C++ | 📅 2026-03-19 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,058 | 🐛 113 | 🌐 Python | 📅 2026-03-20 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 9,732 | 🐛 25 | 🌐 C++ | 📅 2026-03-19 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 5,795 | 🐛 150 | 🌐 Python | 📅 2026-02-22 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 5,798 | 🐛 150 | 🌐 Python | 📅 2026-02-22 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
@@ -81,10 +81,10 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Libraries and tools for developers
 
-* [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,830 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
-* [Translator](https://github.com/UlionTse/translators) ⭐ 2,991 | 🐛 12 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+* [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,831 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
+* [Translator](https://github.com/UlionTse/translators) ⭐ 2,991 | 🐛 11 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 1,973 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 943 | 🐛 273 | 🌐 Python | 📅 2026-03-25 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translate](https://github.com/translate/translate) ⭐ 943 | 🐛 272 | 🌐 Python | 📅 2026-03-27 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 489 | 🐛 14 | 🌐 Ruby | 📅 2026-03-02 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 * [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 81 | 🐛 14 | 🌐 Python | 📅 2026-03-01 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
@@ -166,7 +166,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 * [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 * [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
 * [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ\&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
-* [Glocalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) ⭐ 53 | 🐛 1 | 🌐 CSS | 📅 2023-03-03 - A Guide for Localization and Globalization Professionals by the GILT forum.
+* [Glocalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) ⭐ 54 | 🐛 1 | 🌐 CSS | 📅 2023-03-03 - A Guide for Localization and Globalization Professionals by the GILT forum.
 
 ## Other
 

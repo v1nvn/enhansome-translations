@@ -86,7 +86,7 @@
             "last_commit": "2026-05-08T15:02:36Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 9854
+            "stars": 9858
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1966
+            "stars": 1965
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 17591
+            "stars": 17589
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-05-05T19:11:40Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 14341
+            "stars": 14345
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2024-07-23T22:12:59Z",
             "owner": "nidhaloff",
             "repo": "deep-translator",
-            "stars": 1998
+            "stars": 1999
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4860
+            "stars": 4861
           }
         },
         {
@@ -215,10 +215,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-10T21:14:11Z",
+            "last_commit": "2026-05-11T13:42:16Z",
             "owner": "translate",
             "repo": "translate",
-            "stars": 950
+            "stars": 951
           }
         },
         {
@@ -248,7 +248,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-10T14:38:54Z",
+            "last_commit": "2026-05-12T02:23:15Z",
             "owner": "untra",
             "repo": "polyglot",
             "stars": 494
@@ -345,7 +345,7 @@
             "last_commit": "2024-08-26T12:08:57Z",
             "owner": "translate",
             "repo": "pootle",
-            "stars": 1505
+            "stars": 1504
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T06:02:01.494Z",
+    "last_updated": "2026-05-12T05:41:10.521Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,

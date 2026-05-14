@@ -86,7 +86,7 @@
             "last_commit": "2026-05-12T13:25:52Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 9858
+            "stars": 9863
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1965
+            "stars": 1967
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-05-05T19:11:40Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 14349
+            "stars": 14355
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2677
+            "stars": 2678
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4863
+            "stars": 4864
           }
         },
         {
@@ -215,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T13:42:16Z",
+            "last_commit": "2026-05-13T17:19:31Z",
             "owner": "translate",
             "repo": "translate",
             "stars": 951
@@ -248,7 +248,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-12T14:39:14Z",
+            "last_commit": "2026-05-13T16:26:04Z",
             "owner": "untra",
             "repo": "polyglot",
             "stars": 494
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:52:08.394Z",
+    "last_updated": "2026-05-14T05:51:09.186Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,

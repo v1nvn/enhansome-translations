@@ -86,7 +86,7 @@
             "last_commit": "2026-05-23T11:07:10Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10026
+            "stars": 10027
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1970
+            "stars": 1969
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 17602
+            "stars": 17603
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-05-05T19:11:40Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 14419
+            "stars": 14425
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2024-07-23T22:12:59Z",
             "owner": "nidhaloff",
             "repo": "deep-translator",
-            "stars": 2008
+            "stars": 2010
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2680
+            "stars": 2682
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-05-23T12:36:19Z",
             "owner": "translate",
             "repo": "translate",
-            "stars": 954
+            "stars": 955
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:38:52.176Z",
+    "last_updated": "2026-05-26T06:10:25.643Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,

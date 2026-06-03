@@ -18,8 +18,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Translations
 
-* [English](https://github.com/mbiesiad/awesome-translations) ⭐ 185 | 🐛 7 | 📅 2026-01-18
-* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL) ⭐ 185 | 🐛 7 | 📅 2026-01-18
+* [English](https://github.com/mbiesiad/awesome-translations) ⭐ 186 | 🐛 7 | 📅 2026-01-18
+* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL) ⭐ 186 | 🐛 7 | 📅 2026-01-18
 * [Italian](https://github.com/niedev/awesome-translations/tree/it_IT) ⭐ 9 | 🐛 0 | 📅 2024-06-27
 * [French](https://github.com/alexture/awesome-translations/tree/fr_FR) ⭐ 2 | 🐛 0 | 📅 2024-01-11
 * [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
@@ -43,7 +43,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Project management
 
 * [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-* [Traduora](https://github.com/traduora/traduora) ⭐ 2,120 | 🐛 109 | 🌐 JavaScript | 📅 2026-04-08 - A platform to manage translation workflow in teams.
+* [Traduora](https://github.com/traduora/traduora) ⭐ 2,121 | 🐛 109 | 🌐 JavaScript | 📅 2026-04-08 - A platform to manage translation workflow in teams.
 
 ### Platform-specific tools
 
@@ -55,15 +55,15 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 17,609 | 🐛 124 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,472 | 🐛 122 | 🌐 Python | 📅 2026-05-26 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,057 | 🐛 31 | 🌐 C++ | 📅 2026-06-01 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 17,611 | 🐛 125 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 14,476 | 🐛 122 | 🌐 Python | 📅 2026-05-26 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,066 | 🐛 31 | 🌐 C++ | 📅 2026-06-01 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,093 | 🐛 154 | 🌐 Python | 📅 2026-04-25 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,097 | 🐛 154 | 🌐 Python | 📅 2026-04-25 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
@@ -82,11 +82,11 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Libraries and tools for developers
 
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,868 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
-* [Translator](https://github.com/UlionTse/translators) ⭐ 2,682 | 🐛 11 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
-* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,015 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 955 | 🐛 259 | 🌐 Python | 📅 2026-06-01 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translator](https://github.com/UlionTse/translators) ⭐ 2,683 | 🐛 11 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,016 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+* [Translate](https://github.com/translate/translate) ⭐ 955 | 🐛 260 | 🌐 Python | 📅 2026-06-02 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 494 | 🐛 8 | 🌐 Ruby | 📅 2026-05-16 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
-* [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2026-04-07 - A Sphinx utility that make it easy to translate and to apply translations.
+* [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2026-06-03 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 * [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 * [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.

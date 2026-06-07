@@ -86,7 +86,7 @@
             "last_commit": "2026-06-04T15:02:58Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10078
+            "stars": 10079
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1969
+            "stars": 1970
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 17633
+            "stars": 17650
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-06-05T13:03:41Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 14497
+            "stars": 14501
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2684
+            "stars": 2685
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4868
+            "stars": 4869
           }
         },
         {
@@ -215,10 +215,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T05:37:39Z",
+            "last_commit": "2026-06-07T04:50:02Z",
             "owner": "translate",
             "repo": "translate",
-            "stars": 955
+            "stars": 956
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:56:47.576Z",
+    "last_updated": "2026-06-07T06:27:46.473Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,

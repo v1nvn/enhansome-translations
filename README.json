@@ -86,7 +86,7 @@
             "last_commit": "2026-06-09T15:12:52Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10116
+            "stars": 10120
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1969
+            "stars": 1971
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 17674
+            "stars": 17679
           }
         },
         {
@@ -122,10 +122,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T13:03:41Z",
+            "last_commit": "2026-06-10T16:01:23Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 14522
+            "stars": 14532
           }
         }
       ],
@@ -215,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-09T18:46:19Z",
+            "last_commit": "2026-06-10T23:56:44Z",
             "owner": "translate",
             "repo": "translate",
             "stars": 957
@@ -251,7 +251,7 @@
             "last_commit": "2026-05-16T01:30:17Z",
             "owner": "untra",
             "repo": "polyglot",
-            "stars": 494
+            "stars": 493
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-02-12T03:32:26Z",
             "owner": "fkirc",
             "repo": "attranslate",
-            "stars": 355
+            "stars": 356
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:27:07.476Z",
+    "last_updated": "2026-06-11T06:52:39.458Z",
     "original_repository": "mbiesiad/awesome-translations",
     "source_repository": "v1nvn/enhansome-translations",
     "source_repository_description": null,
